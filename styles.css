@@ -1,0 +1,47 @@
+body{
+     text-align: center;
+     background-color: #9A4444;
+     align-content: center;
+     font-family: 'Playfair Display', serif;
+     font-size:2rem;
+}
+.game{
+     background-color: #DE8F5F;
+     margin: 3rem;
+     padding:2rem;
+     padding-bottom: 2rem;
+     border-radius:20%;
+}
+
+.letter {
+     height: 3rem;
+     width: 3rem;
+     background-color: #D6D46D;
+     border-color: #9A4444;
+     border-width: 0.3rem;
+     border-radius: 30%;
+}
+#restart{
+     display:flex;
+     justify-content: flex-end;
+     margin-right: 3rem;
+     margin-bottom: 2rem;
+}
+.restart {
+     width:6rem;
+     
+}
+
+.right {
+     background-color: aqua;
+}
+
+.userWords{
+     border-color: #9A4444;
+     border-width:4px;
+     border-radius: 10%;
+     background-color: #ebeab3;
+     height: 2rem;
+     text-align: center;
+     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
